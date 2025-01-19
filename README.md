@@ -17,8 +17,8 @@ Analyze and predict global disaster trends using Python, enabling informed decis
 
 ## Installation  
 1. Clone the repository:  
-   ``` 
-   git clone https://github.com/your-username/Global-Disaster-Analysis.git  
+``` 
+git clone https://github.com/your-username/Global-Disaster-Analysis.git  
 
 2. Navigate to the project directory:
   ```
